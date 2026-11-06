@@ -1,5 +1,7 @@
 # Setup prompt
 
+> **Step 0 (sab se pehle):** is folder mein `python3 setup.py` chalayein. Yeh flat files (`app__src__...`) ko unke sahi folders (`app/src/...`) mein rakh deti hai. Is ke baghair app nahi chalegi.
+
 Open a coding agent (Claude Code, Codex, Kimi or similar) in the root of this repository, then paste
 everything inside the box below as one message. The agent installs every dependency, sets up the app
 and gives you the link to open it. It asks before anything that needs your password or changes
